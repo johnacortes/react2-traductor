@@ -1,0 +1,198 @@
+.component2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.container-buttons2-svgH {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  width: 90%;
+  height: 15%;
+}
+
+.conatiner-text-translated {
+  display: flex;
+  width: 90%;
+  height: 52%;
+  border-top: solid 2px #394150;
+}
+
+.container-svgs-sound2-copy2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 90%;
+  height: 15%;
+}
+
+.container-svg-horizontal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 29px;
+  height: 27px;
+  border: solid 2px #4d5562;
+  border-radius: 10px;
+}
+
+.button2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75px;
+  height: 35px;
+  background-color: transparent;
+  border: 0;
+  border-radius: 10px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: #4d5562;
+}
+
+.btn-spanish2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 30px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0;
+  border: 0;
+  color: #4d5562;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.container-buttons2 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+}
+
+.svg-down2 {
+  margin-left: 3px;
+}
+
+.text-target {
+  font-family: "DM Sans", sans-serif;
+  color: #f9fafb;
+}
+
+.container-svg-sound2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg-copy2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg-sound1-copy1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 7px;
+}
+
+.container-svg-sound1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg-copy1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg-sound1-copy1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 7px;
+}
+
+.container-svg-sound1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg-copy1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border: solid 2px #4d5562;
+  border-radius: 6px;
+}
+
+.container-svg2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  gap: 7px;
+}
+
+.dropdown2 {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  right: 0%;
+  top: 80%;
+  color: #4d5562;
+  font-family: "DM Sans", sans-serif;
+}
+
+.container-button-select2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-selects2 {
+  background-color: transparent;
+  border: none;
+  color: #cdd5e0;
+}
+
+.btn2.active2 {
+  background-color: #4d5562;
+  color: #cdd5e0;
+}
