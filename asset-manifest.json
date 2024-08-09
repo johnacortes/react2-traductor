@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react2-traductor/static/css/main.0d952b1e.css",
+    "main.js": "/react2-traductor/static/js/main.f8613d55.js",
+    "static/media/hero_img.jpg": "/react2-traductor/static/media/hero_img.536dc0c660a0895087e2.jpg",
+    "index.html": "/react2-traductor/index.html",
+    "main.0d952b1e.css.map": "/react2-traductor/static/css/main.0d952b1e.css.map",
+    "main.f8613d55.js.map": "/react2-traductor/static/js/main.f8613d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d952b1e.css",
+    "static/js/main.f8613d55.js"
+  ]
+}
